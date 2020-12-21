@@ -75,6 +75,7 @@ The easiest way to bootstrap the project with jcstress is to use the archetype:
      -DinteractiveMode=false \
      -DarchetypeGroupId=org.openjdk.jcstress \
      -DarchetypeArtifactId=jcstress-java-test-archetype \
+     -DarchetypeVersion=0.7 \
      -DgroupId=org.sample \
      -DartifactId=test \
      -Dversion=1.0
